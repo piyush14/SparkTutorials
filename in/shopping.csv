@@ -1,0 +1,9 @@
+cid,pid,action
+101,p1,browse
+101,p1,add to cart
+101,p1,purchase
+101,p2,browse
+101,p2,add to cart
+102,p5,browse
+102,p5,add to cart
+102,p5,purchase
